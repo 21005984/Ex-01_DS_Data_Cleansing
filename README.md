@@ -54,4 +54,7 @@ df.isnull().sum()
 ![output](.//o6.PNG)
 ![output](.//o7.PNG)
 
+# RESULT
+The given data has been read and data cleaning has been performed and saved the cleaned data to a file.
+
 
