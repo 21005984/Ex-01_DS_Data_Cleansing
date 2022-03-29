@@ -19,7 +19,7 @@ Remove the null values from the data
 Save the Clean data to the file
 
 
-# CODE
+## CODE
 ~~~
 import pandas as pd
 df = pd.read_csv("Data_set.csv")
@@ -44,7 +44,7 @@ df.head()
 df.info()
 df.isnull().sum()
 ~~~
-# OUTPUT
+## OUTPUT
 
 ![output](.//o1.PNG)
 ![output](.//o2.PNG)
@@ -54,7 +54,7 @@ df.isnull().sum()
 ![output](.//o6.PNG)
 ![output](.//o7.PNG)
 
-# RESULT
+## RESULT
 
 The given data has been read and data cleaning has been performed and saved the cleaned data to a file.
 
