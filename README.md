@@ -46,7 +46,7 @@ df.isnull().sum()
 ~~~
 ## OUTPUT
 
-![output](./o1.png)
+![output](.//A1.png)
 ![output](.//o2.png)
 ![output](.//o3.png)
 ![output](.//o4.PNG)
