@@ -49,10 +49,10 @@ df.isnull().sum()
 ![output](.//A1.png)
 ![output](.//A2.png)
 ![output](.//A3.png)
-![output](.//A4.PNG)
-![output](.//A5.PNG)
-![output](.//A6.PNG)
-![output](.//A7.PNG)
+![output](.//A4.png)
+![output](.//A5.png)
+![output](.//A6.png)
+![output](.//A7.png)
 
 ## RESULT
 
