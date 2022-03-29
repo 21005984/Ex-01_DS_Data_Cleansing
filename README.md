@@ -47,12 +47,12 @@ df.isnull().sum()
 ## OUTPUT
 
 ![output](.//A1.png)
-![output](.//o2.png)
-![output](.//o3.png)
-![output](.//o4.PNG)
-![output](.//o5.PNG)
-![output](.//o6.PNG)
-![output](.//o7.PNG)
+![output](.//A2.png)
+![output](.//A3.png)
+![output](.//A4.PNG)
+![output](.//A5.PNG)
+![output](.//A6.PNG)
+![output](.//A7.PNG)
 
 ## RESULT
 
